@@ -1,5 +1,5 @@
 /* ============================================================
-   Heirloom — deep ink & antique gold theme, engraved-certificate feel
+   Aven — deep ink & antique gold theme, engraved-certificate feel
    Theme variables: edit these to retheme the whole site.
    ============================================================ */
 :root {
@@ -35,7 +35,7 @@ body {
 
 .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
 
-/* Spectral serif display headings — heirloom signature */
+/* Spectral serif display headings — Aven signature */
 h1, h2 {
   font-family: var(--serif);
   line-height: 1.16;

@@ -1,4 +1,4 @@
-# Heirloom — Landing Page
+# Aven — Landing Page
 
 Static landing page for a **digital estate & access continuity** startup (dead-man switches, multi-party key escrow, legally-integrated access transfer for passwords, wallets, domains, SaaS admin rights). No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "Heirloom",
-  domain: "heirloom.example.com",
-  contactEmail: "hello@heirloom.example.com"
+  companyName: "Aven",
+  domain: "getaven.xyz",
+  contactEmail: "hello@getaven.xyz"
 };
 ```
 
